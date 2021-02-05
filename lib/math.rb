@@ -24,6 +24,6 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  puts sqrt(81)
+  puts math sqrt(81)
   sum = 9
 end
