@@ -25,5 +25,4 @@ end
 
 def square_root(num)
   sqrt(81)
-  sum = 9
 end
