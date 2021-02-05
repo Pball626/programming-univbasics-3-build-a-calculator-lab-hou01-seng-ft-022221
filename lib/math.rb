@@ -24,5 +24,5 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  puts (square_root(81)
+  puts square_root(81)
 end
